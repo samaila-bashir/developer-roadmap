@@ -33,3 +33,6 @@ tests-examples
 !/editor/readonly-editor.tsx
 !/editor/renderer/renderer.ts
 !/editor/renderer/index.tsx
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
