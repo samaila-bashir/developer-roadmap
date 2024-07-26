@@ -18,8 +18,6 @@ pnpm-debug.log*
 
 
 # environment variables
-.env
-.env.production
 
 # macOS-specific files
 .DS_Store
@@ -33,3 +31,4 @@ tests-examples
 !/editor/readonly-editor.tsx
 !/editor/renderer/renderer.ts
 !/editor/renderer/index.tsx
+config.bat

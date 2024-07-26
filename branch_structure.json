@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "javascript-null",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "javascript-null": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "javascript-null",
+    "origin"
+  ]
+}
